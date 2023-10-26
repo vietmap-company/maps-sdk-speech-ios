@@ -381,7 +381,7 @@
 				INFOPLIST_FILE = MapboxSpeech/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.VietMapSpeech;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSpeech;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -403,7 +403,7 @@
 				INFOPLIST_FILE = MapboxSpeech/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.VietMapSpeech;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSpeech;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
@@ -424,7 +424,7 @@
 				);
 				INFOPLIST_FILE = MapboxSpeechTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks $(PROJECT_DIR)/Carthage/Build/iOS @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Mapbox.MapboxSpeechTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSpeechTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
@@ -445,7 +445,7 @@
 				);
 				INFOPLIST_FILE = MapboxSpeechTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks $(PROJECT_DIR)/Carthage/Build/iOS @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Mapbox.MapboxSpeechTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSpeechTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
